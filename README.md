@@ -1,7 +1,16 @@
 # 🚀 Code Snippet Backend Course – Projects & Practice
 
-This repository contains all backend projects, practice exercises, and code implementations built during the **Code Snippet Online Backend Course**.  
-The course covers **Node.js**, **Express.js**, **MySQL**, **MongoDB**, **Authentication & Authorization**, **Redis**, **Docker**, **WebSockets**, and more advanced backend concepts.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Blue?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+This repository contains all **backend projects, practice exercises, and code implementations** built during the **Code Snippet Online Backend Course**.  
+The course covers **Node.js, Express.js, MySQL, MongoDB, Authentication & Authorization, Redis, Docker, WebSockets**, and more advanced backend concepts.
 
 ---
 
@@ -10,32 +19,32 @@ The course covers **Node.js**, **Express.js**, **MySQL**, **MongoDB**, **Authent
 The main objective of this course is to build a strong foundation in **backend development** by creating real-world, production-ready projects.
 
 ### 🧠 Topics Covered
-- Node.js Fundamentals
-- Express.js Framework
-- RESTful API Design
-- MySQL (Relational Database)
-- MongoDB (NoSQL Database)
-- Authentication & Authorization (JWT / OAuth)
-- Session Management & Cookies
-- Redis for Caching
-- Docker for Containerization
-- WebSockets for Real-time Communication
-- Deployment & Environment Management
+- Node.js Fundamentals  
+- Express.js Framework  
+- RESTful API Design  
+- MySQL (Relational Database)  
+- MongoDB (NoSQL Database)  
+- Authentication & Authorization (JWT / OAuth)  
+- Session Management & Cookies  
+- Redis for Caching  
+- Docker for Containerization  
+- WebSockets for Real-time Communication  
+- Deployment & Environment Management  
 
 ---
 
 ## 💻 Tech Stack
 
 | Technology | Description |
-|-------------|-------------|
-| **Node.js** | JavaScript runtime for backend |
-| **Express.js** | Web framework for Node.js |
-| **MySQL** | Relational database management |
-| **MongoDB** | NoSQL database |
-| **Redis** | In-memory caching system |
-| **Docker** | Containerization & environment consistency |
-| **WebSockets** | Real-time bidirectional communication |
-| **JWT / Bcrypt** | Authentication & Security |
+|------------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js** | JavaScript runtime for backend |
+| ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) **Express.js** | Web framework for Node.js |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL** | Relational database management |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) **MongoDB** | NoSQL database |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) **Redis** | In-memory caching system |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker** | Containerization & environment consistency |
+| ![WebSockets](https://img.shields.io/badge/WebSockets-Blue?style=flat) **WebSockets** | Real-time bidirectional communication |
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=flat) **JWT / Bcrypt** | Authentication & Security |
 
 ---
 
@@ -59,7 +68,7 @@ Each project is structured in its own folder for easy reference and learning.
 git clone https://github.com/singhayush007/<YOUR_REPO_NAME>.git
 
 # Go to the project directory
-cd <YOUR_REPO_NAME>
+cd https://github.com/singhayush007/BACKEND_COURSE
 
 # Install dependencies
 npm install
